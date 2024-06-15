@@ -2,6 +2,8 @@
 A simple executable that sets all your sprocket blueprint's thicknesses as 1mm, and grid size as 0 to make the editing experience as close to 0.127 as possible
 Even if there isn't a chance that the program can corrupt the blueprint, PLEASE make a backup of your creation before applying this to it. I don't want to be responsible for art being destroyed
 
+Sorry for the wacky executable packaging, doing it all properly in one file made windows defender falsely flag it as malware
+
 # How to use:
 If you do not have a python IDE or wish to not use it:
 1. Download the zip file (code -> download zip) with the project
