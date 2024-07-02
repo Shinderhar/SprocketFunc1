@@ -28,7 +28,7 @@ If you have a python IDE (or do not trust the executable):
 8. If you wish to exit, in the main menu, type 0, or terminate the program
 9. Enjoy
 
-#Update 1:
+# Update 1:
 Have added a functionality to change specific thickness values that you will input in the program to a value that you also input (it sets the point thickness values of a face to a specific number, so this could cause some issues)
 Have added a functionality to change the blueprint path you inputted to change different blueprints without closing it
 Have added a recursive menu to ease the usage of the program
